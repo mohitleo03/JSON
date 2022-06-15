@@ -1,14 +1,10 @@
-{
-  "results":[
-    {"status":"compilation error",
-     "description":"error: non-void function does not return a value [-Werror,-Wreturn-type]"
+
+    {
       
-    },
-    {"status":"all test case pass"
-      "description":""
-    },
-    {"status":"wrong output"
-      "description":
-    },
-  ]
-}
+      "type":"compilation error",
+     "message":"error: non-void function does not return a value [-Werror,-Wreturn-type]",
+      "timeTaken":3000
+    }
+  
+  
+
