@@ -1,0 +1,1335 @@
+{
+    "message": "Product Found",
+    "AllProducts": [
+        {
+            "product_id": "Phone14hm2gml1datu6g",
+            "product_name": "iQOO Z3 5G",
+            "product_img": "https://m.media-amazon.com/images/I/615CXlFtDDS._SL1200_.jpg",
+            "product_price": 20000,
+            "discount": 10
+        },
+        {
+            "product_id": "Phone14hm2gml1dcc38t",
+            "product_name": "iQOO Z5 5G",
+            "product_img": "https://m.media-amazon.com/images/I/71wevQRS5qL._SL1196_.jpg",
+            "product_price": 24000,
+            "discount": 18
+        },
+        {
+            "product_id": "Phone14hm2gml1dcfmx2",
+            "product_name": "Samsung Galaxy S22 Ultra 5G",
+            "product_img": "https://m.media-amazon.com/images/I/71J8tz0UeJL._SL1500_.jpg",
+            "product_price": 122000,
+            "discount": 16
+        },
+        {
+            "product_id": "Phone14hm2gml1dcking",
+            "product_name": "Samsung Galaxy M32 5G",
+            "product_img": "https://m.media-amazon.com/images/I/71os5DRhuSL._SL1500_.jpg",
+            "product_price": 23000,
+            "discount": 0
+        },
+        {
+            "product_id": "Phone14hm2gml1dcmdxl",
+            "product_name": "Samsung Galaxy M52 5G",
+            "product_img": "https://m.media-amazon.com/images/I/81-tqKsrTuL._SL1500_.jpg",
+            "product_price": 25000,
+            "discount": 19
+        },
+        {
+            "product_id": "Phone14hm2gml1dcqh0s",
+            "product_name": "Samsung Galaxy S20 FE 5G",
+            "product_img": "https://m.media-amazon.com/images/I/81vDZyJQ-4L._SL1500_.jpg",
+            "product_price": 40000,
+            "discount": 1
+        },
+        {
+            "product_id": "Phone14hm2gml1dcsqo2",
+            "product_name": "Samsung Galaxy S21 FE 5G",
+            "product_img": "https://m.media-amazon.com/images/I/8131pwAojZL._SL1500_.jpg",
+            "product_price": 60000,
+            "discount": 16
+        },
+        {
+            "product_id": "Phone14hm2gml1ddf1qj",
+            "product_name": "OPPO F19 Pro + 5G",
+            "product_img": "https://m.media-amazon.com/images/I/71uXmoBZpOL._SL1500_.jpg",
+            "product_price": 26000,
+            "discount": 9
+        },
+        {
+            "product_id": "Laptopdew1rmkxywdjd1",
+            "product_name": "Lenovo Legion 5 AMD Ryzen 7 5800H 15.6(39.62cm) FHD IPS Gaming Laptop (16GB/2TB SSD/6GB Nvidia RTX 3060 Graphics/Windows 11/Office 2021/RGB Keyboard/165Hz Refresh Rate/Phantom Blue/2.4Kg), 82JU010NIN",
+            "product_img": "https://m.media-amazon.com/images/I/61Er61SxBhL._SL1500_.jpg",
+            "product_price": 133000,
+            "discount": 1
+        },
+        {
+            "product_id": "Cycling10a1mmkxyz530p",
+            "product_name": "VICTGOAL USB Rechargeable Bicycle Light Set 400 Lumen Super Bright Headlight Front Lights and Back Rear LED 4 Light Mode Road Cycling Safety Flashlight Runtime 4+ Hours",
+            "product_img": "https://m.media-amazon.com/images/I/61Gj3YhrMXL._SL1000_.jpg",
+            "product_price": 1450,
+            "discount": 3
+        },
+        {
+            "product_id": "Cycling10a1mmkxyz71px",
+            "product_name": "Sportneer Bike Lock, Keyless Bicycle Anti-Theft Chain Lock for Mountain Bike Road Bike",
+            "product_img": "https://m.media-amazon.com/images/I/719nOaYCBSL._SL1200_.jpg",
+            "product_price": 800,
+            "discount": 3
+        },
+        {
+            "product_id": "FootBall10a1mmkxyzcx6q",
+            "product_name": "NIVIA Blaze Football Stud",
+            "product_img": "https://m.media-amazon.com/images/I/61+3BXRNK+L._SL1500_.jpg",
+            "product_price": 1300,
+            "discount": 7
+        },
+        {
+            "product_id": "FootBall10a1mmkxyzoelw",
+            "product_name": "Vector X Jaguar Football Shoes (Black-Orange)",
+            "product_img": "https://m.media-amazon.com/images/I/31GNra7GhXL.jpg",
+            "product_price": 2000,
+            "discount": 12
+        },
+        {
+            "product_id": "FootBall10a1mmkxyzwfpu",
+            "product_name": "ASHTANG Gold Goal Keeper Glove",
+            "product_img": "https://m.media-amazon.com/images/I/81nyfhcngkL._SL1500_.jpg",
+            "product_price": 1400,
+            "discount": 1
+        },
+        {
+            "product_id": "Powerdew1rmkxywoszt",
+            "product_name": "Portronics Power G 10K 10000 mAh Power Bank with Dual Input & Triple Output",
+            "product_img": "https://m.media-amazon.com/images/I/41QSHV6g0CL._SL1200_.jpg",
+            "product_price": 999,
+            "discount": 14
+        },
+        {
+            "product_id": "Cricketdew1rmkxyxb1fc",
+            "product_name": "SG SR 210 English-Willow Cricket Bat",
+            "product_img": "https://m.media-amazon.com/images/I/31658CqfjeL.jpg",
+            "product_price": 39000,
+            "discount": 12
+        },
+        {
+            "product_id": "Cricketdew1rmkxyy1zeb",
+            "product_name": "Gravity KD Coach Indoor Outdoor Cricket Bowling Machine",
+            "product_img": "https://m.media-amazon.com/images/I/61+3YVQixEL._SL1500_.jpg",
+            "product_price": 84999,
+            "discount": 10
+        },
+        {
+            "product_id": "console10a1mmkxz0rb54",
+            "product_name": "Amkette EvoFox Game Box Gaming Console with Android 9.0",
+            "product_img": "https://m.media-amazon.com/images/I/61r7rNZ1Z4L._SL1356_.jpg",
+            "product_price": 9999,
+            "discount": 19
+        },
+        {
+            "product_id": "Tabletsdew1rmkxywssuw",
+            "product_name": "Lenovo Tab P11 (11 inch / 27.94 cms, 4 GB, 128 GB, Wi-Fi + LTE, Data Only), Platinum Grey",
+            "product_img": "https://m.media-amazon.com/images/I/51JdIeU3alL._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 37000,
+            "discount": 15
+        },
+        {
+            "product_id": "Powerdew1rmkxywn8ce",
+            "product_name": "realme 10000mAh 12W Power Bank 2i Quick Charge Li-Polymer Power Bank - Black",
+            "product_img": "https://m.media-amazon.com/images/I/91FtowZlmVL._SL1500_.jpg",
+            "product_price": 999,
+            "discount": 10
+        },
+        {
+            "product_id": "Tabletsdew1rmkxywrfdk",
+            "product_name": "Fusion5 4G Tablet (2GB RAM, 32GB Storage, Wi-Fi + 4G LTE + Voice Calling) (White, 10.1 Inch) 25.65 cm",
+            "product_img": "https://m.media-amazon.com/images/I/71TehSETAnS._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 20999,
+            "discount": 5
+        },
+        {
+            "product_id": "Badmintondew1rmkxyx32yz",
+            "product_name": "RK SON Badminton Rackets Set of 2 for Kids & Adults with 6 Piece Shuttles Steel Shaft Badminton Racquet Shuttlecock Combo Kit with Skipping Rope",
+            "product_img": "https://images-eu.ssl-images-amazon.com/images/I/61QdcxBmkFL._AC_UL200_SR200,200_.jpg",
+            "product_price": 899,
+            "discount": 17
+        },
+        {
+            "product_id": "Sports10a1mmkxz0i10u",
+            "product_name": "Shoefly Men's Running Shoes",
+            "product_img": "https://m.media-amazon.com/images/I/51S-pQLquYL._UL1212_.jpg",
+            "product_price": 500,
+            "discount": 5
+        },
+        {
+            "product_id": "Sports10a1mmkxz0m32q",
+            "product_name": "Sparx Women's Sl-170 Running Shoe",
+            "product_img": "https://m.media-amazon.com/images/I/81QSfBCW1JL._UL1500_.jpg",
+            "product_price": 1100,
+            "discount": 17
+        },
+        {
+            "product_id": "Phone10a1mmkxz0uie0",
+            "product_name": "S&P Sublimation Designers Phone Covers 3D Printed Hard Back Case Mobile Cover for All Mobile Phones",
+            "product_img": "https://m.media-amazon.com/images/I/61QSo5nC6yL._SL1500_.jpg",
+            "product_price": 250,
+            "discount": 9
+        },
+        {
+            "product_id": "Phone10a1mmkxz0zdwt",
+            "product_name": "TheGiftKart Back Cover for Samsung Galaxy M12 / A12 / F12 (TPU, PC | Black)",
+            "product_img": "https://m.media-amazon.com/images/I/41ZByAB7JlS._SL1000_.jpg",
+            "product_price": 150,
+            "discount": 14
+        },
+        {
+            "product_id": "Washing10a1mmkxz17l78",
+            "product_name": "Bosch 8 kg 5 Star Touch Control Fully Automatic Front Load with Heater (WAJ2426AIN, White)",
+            "product_img": "https://m.media-amazon.com/images/I/71HfSlWiOSS._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 41799,
+            "discount": 3
+        },
+        {
+            "product_id": "smart10a1mmkxz1ucij",
+            "product_name": "Qubo Smart WiFi Wireless Video Doorbell from Hero Group | Instant Visitor Video Call on Phone | Intruder Alarm System | 1080P FHD Camera | 2-Way Talk | Works with Alexa & Google",
+            "product_img": "https://m.media-amazon.com/images/I/51VvAgQBgTL._AC_UY327_FMwebp_QL65_.jpg",
+            "product_price": 9990,
+            "discount": 15
+        },
+        {
+            "product_id": "Powerdew1rmkxywbvql",
+            "product_name": "OnePlus 10000 mAh Power Bank",
+            "product_img": "https://m.media-amazon.com/images/I/61fefWEyHdL._SL1500_.jpg",
+            "product_price": 1099,
+            "discount": 14
+        },
+        {
+            "product_id": "SmartWatchdew1rmkxywyplt",
+            "product_name": "Fossil Gen 6 Smartwatch with AMOLED screen",
+            "product_img": "https://m.media-amazon.com/images/I/51oWvyUWJSL._UL1000_.jpg",
+            "product_price": 25000,
+            "discount": 13
+        },
+        {
+            "product_id": "SmartWatchdew1rmkxyx2qp8",
+            "product_name": "HUAWEI Watch GT 2 Pro Smartwatch",
+            "product_img": "https://m.media-amazon.com/images/I/713K6OiIMyL._SL1367_.jpg",
+            "product_price": 27875,
+            "discount": 7
+        },
+        {
+            "product_id": "Cricketdew1rmkxyxw5gu",
+            "product_name": "adidas Cricket XT 4.0 Batting Gloves",
+            "product_img": "https://m.media-amazon.com/images/I/81IFRBtcjjS._SL1500_.jpg",
+            "product_price": 10559,
+            "discount": 12
+        },
+        {
+            "product_id": "Cricketdew1rmkxyy3eu2",
+            "product_name": "Ae Special Mobile Cricket Pitch Cover",
+            "product_img": "https://m.media-amazon.com/images/I/41X3zPJCOSL.jpg",
+            "product_price": 447160,
+            "discount": 16
+        },
+        {
+            "product_id": "console10a1mmkxyzyyng",
+            "product_name": "PlayStationVR Mega3",
+            "product_img": "https://m.media-amazon.com/images/I/51qSrIhcsrL.jpg",
+            "product_price": 31600,
+            "discount": 5
+        },
+        {
+            "product_id": "Gym10a1mmkxz09rw8",
+            "product_name": "Durafit Panther Multifunction 2.75 HP (5.5 HP Peak) DC Motorized Treadmill with Auto Incline",
+            "product_img": "https://m.media-amazon.com/images/I/61ICjDe8t4L._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 48999,
+            "discount": 7
+        },
+        {
+            "product_id": "console10a1mmkxz09z35",
+            "product_name": "Xbox One Series S",
+            "product_img": "https://m.media-amazon.com/images/I/71NBQ2a52CL._SL1500_.jpg",
+            "product_price": 34000,
+            "discount": 18
+        },
+        {
+            "product_id": "console10a1mmkxz0ccmx",
+            "product_name": "SONY PlayStation 3 500 GB ",
+            "product_img": "https://rukminim1.flixcart.com/image/416/416/gamingconsole/e/2/j/playstation-3-500-sony-controller-original-imaeqcvccu7gvnzz.jpeg?q=70",
+            "product_price": 20000,
+            "discount": 5
+        },
+        {
+            "product_id": "Gym10a1mmkxz0e2qu",
+            "product_name": "Welcare Elliptical Cross Trainer WC6010 with seat, Hand Pulse Sensor, LCD Monitor, Adjustable Resistance for Home Use",
+            "product_img": "https://m.media-amazon.com/images/I/41hPMIYqjsL._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 43000,
+            "discount": 12
+        },
+        {
+            "product_id": "Gym10a1mmkxz0qxna",
+            "product_name": "BullrocK Olympic Barbell 7 feet Men 2200mm 20kg Woman 2010mm 15kg Weightlifting Powerlifting Crossfit Gym Rod Bar 25mm to 29mm Max Load 1500lbs to 1800lbs",
+            "product_img": "https://m.media-amazon.com/images/I/61H9+NXV9qL._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 39309,
+            "discount": 10
+        },
+        {
+            "product_id": "Heater10a1mmkxz1e8bh",
+            "product_name": "Havells OFR - 11Fin 2900-Watt PTC Fan Heater",
+            "product_img": "https://m.media-amazon.com/images/I/71HsJ+o8ZfL._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 15545,
+            "discount": 17
+        },
+        {
+            "product_id": "smart10a1mmkxz1sclx",
+            "product_name": "Qubo Next Generation Smart Home Gadget with Alexa Built-in BT Speakers | 1080p Full HD AI enabled WiFi Security Camera (Indoor) | Smart Home Hub for Automation",
+            "product_img": "https://m.media-amazon.com/images/I/519Jdmsh+yL._AC_UY327_FMwebp_QL65_.jpg",
+            "product_price": 13490,
+            "discount": 11
+        },
+        {
+            "product_id": "console10a1mmkxz0g9de",
+            "product_name": "Logitech G923 Racing Wheel and Pedals",
+            "product_img": "https://m.media-amazon.com/images/I/71pJHPTyacL._SL1500_.jpg",
+            "product_price": 45995,
+            "discount": 2
+        },
+        {
+            "product_id": "FootBall1ix1xemkxxr8bk9",
+            "product_name": "Puma Men's One 5.1 Fg Ag White Black Leather Football Shoes",
+            "product_img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/105578/01/sv01/fnd/IND/fmt/png/PUMA-ONE-5.1-evoKNIT-FG/AG-Men's-Football-Boots",
+            "product_price": 9000,
+            "discount": 4
+        },
+        {
+            "product_id": "FootBall1ix1xemkxxrcu6x",
+            "product_name": "Mikasa MVA 200 Ballon de volley-ball",
+            "product_img": "https://m.media-amazon.com/images/I/61g07ZQyPxL._AC_SL1000_.jpg",
+            "product_price": 19000,
+            "discount": 19
+        },
+        {
+            "product_id": "Powerdew1rmkxywem82",
+            "product_name": "URBN 10000 mAh Li-Polymer Ultra Compact Power Bank with 12W Fast Charge ",
+            "product_img": "https://images-static.nykaa.com/media/catalog/product/8/2/8272a79upr10k_co_1.jpg?tr=w-500,pr-true",
+            "product_price": 599,
+            "discount": 18
+        },
+        {
+            "product_id": "Powerdew1rmkxywj1q8",
+            "product_name": "DUDAO 3 in 1 Dual Mode QC 3.0 Wired & Wireless 10000mAh Power Bank for Mobile",
+            "product_img": "https://m.media-amazon.com/images/I/51hcrl2oC4L._SL1500_.jpg",
+            "product_price": 2390,
+            "discount": 11
+        },
+        {
+            "product_id": "Laptopdew1rmkxywm21p",
+            "product_name": "Lenovo ThinkPad E15 Business (Intel i3-1115G4 11th Gen/4GB/256GB SSD/15.6 inches/DOS/Black/1.7 kg) Laptop",
+            "product_img": "https://m.media-amazon.com/images/I/61YI9NujfFL._SL1500_.jpg",
+            "product_price": 41000,
+            "discount": 0
+        },
+        {
+            "product_id": "Tabletsdew1rmkxywpilv",
+            "product_name": "elevn eTab11 Max Pro Tablet with Keyboard (10.1-inch, Magnetic Docking Keyboard, 4GB | 128GB, Wi-Fi + 4G LTE + Voice Calling, Dual Sim, 7000 mAh Battery), Aluminium Grey",
+            "product_img": "https://m.media-amazon.com/images/I/71jx6EmbNvS._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 34990,
+            "discount": 0
+        },
+        {
+            "product_id": "Badmintondew1rmkxyx1za8",
+            "product_name": "KNK GTR-303 Aluminium Shaft Badminton Lightweight Oval Shape Racket Set of 1 with 3 Pieces Nylon Shuttlecock with Full Badminton Cover Kit",
+            "product_img": "https://images-eu.ssl-images-amazon.com/images/I/81ethMT34xL._AC_UL200_SR200,200_.jpg",
+            "product_price": 999,
+            "discount": 0
+        },
+        {
+            "product_id": "Badmintondew1rmkxyx8f0v",
+            "product_name": "Zoto Second Grade Feather Crown and Second Grade EVA Bottom Badminton Shuttlecock Tube of 12Pcs",
+            "product_img": "https://images-eu.ssl-images-amazon.com/images/I/41M1b9GKKSL._AC_UL200_SR200,200_.jpg",
+            "product_price": 300,
+            "discount": 18
+        },
+        {
+            "product_id": "Cyclingdew1rmkxyx8mc0",
+            "product_name": "VICTGOAL Adults Bicycle Helmet for Men Women Detachable Magnetic Goggle Visor Cycling Helmet with LED Rear Light Road Mountain Cycle Helmet",
+            "product_img": "https://m.media-amazon.com/images/I/51fWht-WEmL._SL1000_.jpg",
+            "product_price": 2000,
+            "discount": 7
+        },
+        {
+            "product_id": "Cyclingdew1rmkxyxb7hl",
+            "product_name": "Cycling Gloves for Men Women || Anti- Slip Breathable Gloves",
+            "product_img": "https://m.media-amazon.com/images/I/71zarePmPjS._SL1500_.jpg",
+            "product_price": 1000,
+            "discount": 13
+        },
+        {
+            "product_id": "Cricketdew1rmkxyxuc33",
+            "product_name": "SHREY KOROYD Titanium Cricket Helmet",
+            "product_img": "https://m.media-amazon.com/images/I/31vZoYoPfYL.jpg",
+            "product_price": 22999,
+            "discount": 5
+        },
+        {
+            "product_id": "Cricketdew1rmkxyxzhd9",
+            "product_name": "ADIDAS Cricket Batting Pads Incurza 1.0",
+            "product_img": "https://m.media-amazon.com/images/I/41QdLetY9VL.jpg",
+            "product_price": 3459,
+            "discount": 17
+        },
+        {
+            "product_id": "FootBall10a1mmkxyzrpho",
+            "product_name": "Triumph Unisex Polyester Sublimated Football Jersey Red",
+            "product_img": "https://m.media-amazon.com/images/I/81az85hPISL._UL1500_.jpg",
+            "product_price": 800,
+            "discount": 10
+        },
+        {
+            "product_id": "FootBall10a1mmkxyzu2us",
+            "product_name": "aallookart Football RM Away Blue Jersey with Shorts for Men 2021-22",
+            "product_img": "https://m.media-amazon.com/images/I/41l2Mo4ZcsL.jpg",
+            "product_price": 1000,
+            "discount": 7
+        },
+        {
+            "product_id": "Sports10a1mmkxz075z1",
+            "product_name": "Campus Men's Stonic Running Shoes",
+            "product_img": "https://m.media-amazon.com/images/I/41QEth9tRjL.jpg",
+            "product_price": 1500,
+            "discount": 13
+        },
+        {
+            "product_id": "Sports10a1mmkxz0aq06",
+            "product_name": "Campus Women's Alexa Running Shoes",
+            "product_img": "https://m.media-amazon.com/images/I/41d+anTy4RL.jpg",
+            "product_price": 1700,
+            "discount": 1
+        },
+        {
+            "product_id": "Phone10a1mmkxz116rc",
+            "product_name": "WOW Imagine Shock Proof Flip Cover Back Case Cover for Xiaomi Mi Redmi 9 | Redmi 9 Activ |Poco C31",
+            "product_img": "https://m.media-amazon.com/images/I/71ungZslFsL._SL1400_.jpg",
+            "product_price": 300,
+            "discount": 13
+        },
+        {
+            "product_id": "Phone10a1mmkxz1az3p",
+            "product_name": "Samsung Electronics Galaxy Z Fold 3 Phone Case",
+            "product_img": "https://m.media-amazon.com/images/I/81PiWcbBJYL._SL1500_.jpg",
+            "product_price": 7000,
+            "discount": 16
+        },
+        {
+            "product_id": "Phone10a1mmkxz1enby",
+            "product_name": "Samsung Galaxy S21 Ultra Case, S-View Flip Cover - Black (US Version)",
+            "product_img": "https://m.media-amazon.com/images/I/81z0aOXDgTL._SL1500_.jpg",
+            "product_price": 5000,
+            "discount": 8
+        },
+        {
+            "product_id": "Phone10a1mmkxz1i3q2",
+            "product_name": "WOW Imagine Shock Proof Clear Back Cover Case Mobile Cover for 1+ Oneplus",
+            "product_img": "https://m.media-amazon.com/images/I/51I0SoeMoTL._SL1000_.jpg",
+            "product_price": 150,
+            "discount": 8
+        },
+        {
+            "product_id": "Phone10a1mmkxz1kci4",
+            "product_name": "i-Blason Front and Back Case for Galaxy Note10 Plus",
+            "product_img": "https://m.media-amazon.com/images/I/71UTO9wFcFL._SL1494_.jpg",
+            "product_price": 1800,
+            "discount": 6
+        },
+        {
+            "product_id": "computer10a1mmkxz1pnb2",
+            "product_name": "iClever Wireless Mouse",
+            "product_img": "https://m.media-amazon.com/images/I/51GAXG8YklL._SL1500_.jpg",
+            "product_price": 1800,
+            "discount": 2
+        },
+        {
+            "product_id": "computer10a1mmkxz1ti0e",
+            "product_name": "Offbeat RIPJAW 2.4Ghz Rechargeable Wireless Gaming Mouse",
+            "product_img": "https://m.media-amazon.com/images/I/41P7GVRxXyL.jpg",
+            "product_price": 800,
+            "discount": 1
+        },
+        {
+            "product_id": "computer10a1mmkxz1z49c",
+            "product_name": "Zebronics Zeb-Transformer-M Optical USB Gaming Mouse with LED Effect(Black)",
+            "product_img": "https://m.media-amazon.com/images/I/81tioCUVf4L._SL1500_.jpg",
+            "product_price": 600,
+            "discount": 14
+        },
+        {
+            "product_id": "computer10a1mmkxz216lp",
+            "product_name": "Live Tech GamR Gaming RGB Keyboard Mouse & Mouse Pad Combo",
+            "product_img": "https://m.media-amazon.com/images/I/71xCvQC6wdL._SL1500_.jpg",
+            "product_price": 2100,
+            "discount": 18
+        },
+        {
+            "product_id": "computer10a1mmkxz25jq9",
+            "product_name": "Live Tech Evon Wired Gaming Combo",
+            "product_img": "https://m.media-amazon.com/images/I/712g6yIdMuL._SL1500_.jpg",
+            "product_price": 1100,
+            "discount": 11
+        },
+        {
+            "product_id": "computer10a1mmkxz28ovb",
+            "product_name": "Redgear Blaze Semi-Mechanical wired Gaming keyboard",
+            "product_img": "https://m.media-amazon.com/images/I/61M2CPqMgwL._SL1000_.jpg",
+            "product_price": 1000,
+            "discount": 2
+        },
+        {
+            "product_id": "FootBall10a1mmkxyzz2nn",
+            "product_name": "Kobo Champion Football Goal Keeper Professional Gloves",
+            "product_img": "https://m.media-amazon.com/images/I/91ZQIreNppL._SL1500_.jpg",
+            "product_price": 1600,
+            "discount": 12
+        },
+        {
+            "product_id": "FootBall10a1mmkxz037kf",
+            "product_name": "Anbau 1 Set of Soft Comfortable Shin Guards Soccer Protective Football Pads Leg Protective",
+            "product_img": "https://m.media-amazon.com/images/I/61fOjbCZRxL._SL1024_.jpg",
+            "product_price": 700,
+            "discount": 3
+        },
+        {
+            "product_id": "Gym10a1mmkxz0g0e0",
+            "product_name": "Grossfit by Hercules Cardio, Home Gym, EFX Elliptical Cross Trainer",
+            "product_img": "https://m.media-amazon.com/images/I/61eJwh2E2DS._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 49000,
+            "discount": 6
+        },
+        {
+            "product_id": "Gym10a1mmkxz0m176",
+            "product_name": "Kakss Cast Iron Kettlebell for Strength/Fitness/Kettle Bell for Home Gym 2 KG to 92KG",
+            "product_img": "https://m.media-amazon.com/images/I/81ienkLh4zL._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 45999,
+            "discount": 11
+        },
+        {
+            "product_id": "Gym10a1mmkxz0sg4i",
+            "product_name": "BullrocK Black Rubber Bumper Plates 2.0 for Olympic Weightlifting Gym and Crossfit Competition Standard 50mm (2 inch) 5kg 10kg 15kg 20kg 25kg Weight Plate",
+            "product_img": "https://m.media-amazon.com/images/I/71W1y85eDvL._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 49236,
+            "discount": 4
+        },
+        {
+            "product_id": "Heater10a1mmkxz1cjrd",
+            "product_name": "Havells Calido PTC Fan Heater 2000 Watts White and Gold",
+            "product_img": "https://m.media-amazon.com/images/I/71xsG5OeasL._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 5845,
+            "discount": 12
+        },
+        {
+            "product_id": "smart10a1mmkxz1vy4u",
+            "product_name": "Protium Smart Touch Switch, Compatible with Alexa, Google Home, IFTTT & Smart life App (8 gang",
+            "product_img": "https://m.media-amazon.com/images/I/31atFYy2-QL._AC_UY327_FMwebp_QL65_.jpg",
+            "product_price": 8999,
+            "discount": 9
+        },
+        {
+            "product_id": "Powerdew1rmkxywm0lg",
+            "product_name": "Ambrane 10000mAh Power Bank with 20W Fast Charging",
+            "product_img": "https://m.media-amazon.com/images/I/51AJM986Y7L._SL1500_.jpg",
+            "product_price": 899,
+            "discount": 12
+        },
+        {
+            "product_id": "SmartWatchdew1rmkxywv7ps",
+            "product_name": "New Apple Watch Series 6",
+            "product_img": "https://m.media-amazon.com/images/I/91xsnntgh8L._SL1500_.jpg",
+            "product_price": 73900,
+            "discount": 2
+        },
+        {
+            "product_id": "Badmintondew1rmkxyx9vps",
+            "product_name": "LING-MEI L301 Feather Badminton Shuttlecock",
+            "product_img": "https://images-eu.ssl-images-amazon.com/images/I/31IOJlLEFKL._AC_UL200_SR200,200_.jpg",
+            "product_price": 1500,
+            "discount": 11
+        },
+        {
+            "product_id": "console10a1mmkxz0j4ci",
+            "product_name": "Nintendo Switch OLED",
+            "product_img": "https://m.media-amazon.com/images/I/71Q54HnKxwS._SL1500_.jpg",
+            "product_price": 41999,
+            "discount": 19
+        },
+        {
+            "product_id": "console10a1mmkxz0nevv",
+            "product_name": "SONY PlayStation 4 (PS4) Pro 1 TB",
+            "product_img": "https://rukminim1.flixcart.com/image/416/416/jr2dpjk0/gamingconsole/f/q/q/1-playstation-4-ps4-pro-sony-na-original-imafbb8r6j6zgsqe.jpeg?q=70",
+            "product_price": 31500,
+            "discount": 14
+        },
+        {
+            "product_id": "Washing10a1mmkxz0xpi7",
+            "product_name": "Bosch 7 kg 5 Star Inverter Touch Control Fully Automatic Front Loading Washing Machine with In - built Heater (WAJ2416SIN, Silver)",
+            "product_img": "https://m.media-amazon.com/images/I/71laDnTjKPL._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 39799,
+            "discount": 16
+        },
+        {
+            "product_id": "SmartWatchdew1rmkxyx72tb",
+            "product_name": "Michael Kors Gen 5E (43 mm, Gold )",
+            "product_img": "https://m.media-amazon.com/images/I/81kvEKq+NkL._UL1500_.jpg",
+            "product_price": 25995,
+            "discount": 9
+        },
+        {
+            "product_id": "Badmintondew1rmkxyxbkng",
+            "product_name": "Storivo Badminton Feather Shuttlecock Pack of -10,Colour: White",
+            "product_img": "https://images-eu.ssl-images-amazon.com/images/I/31jG-bmHR9L._AC_UL200_SR200,200_.jpg",
+            "product_price": 399,
+            "discount": 16
+        },
+        {
+            "product_id": "Cricketdew1rmkxyyojkp",
+            "product_name": "Payntr X MK3 Pimple Cricket Spike",
+            "product_img": "https://m.media-amazon.com/images/I/51QB2NC9pqL._UL1000_.jpg",
+            "product_price": 20999,
+            "discount": 3
+        },
+        {
+            "product_id": "Sports10a1mmkxz0du0k",
+            "product_name": "5.11 Men's Running Shoes Range Master",
+            "product_img": "https://m.media-amazon.com/images/I/41jtV1K289L.jpg",
+            "product_price": 10000,
+            "discount": 8
+        },
+        {
+            "product_id": "Gym10a1mmkxz0iqbc",
+            "product_name": "The Cube PowerBar | Adjustable Barbell 18 & 38 kg - Including Multi-Grip Rubber Weight Plates for Home Gym Workout for Men and Women",
+            "product_img": "https://m.media-amazon.com/images/I/51JjzBjVJdL._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 26999,
+            "discount": 14
+        },
+        {
+            "product_id": "SmartWatchdew1rmkxyx137e",
+            "product_name": "Garmin Fenix 6 Sapphire - Black DLC with Heathered Red Nylon Band",
+            "product_img": "https://m.media-amazon.com/images/I/61+mvP7jD8S._SL1200_.jpg",
+            "product_price": 77000,
+            "discount": 2
+        },
+        {
+            "product_id": "Headphone2194emkxyfswik",
+            "product_name": "Sony MDR-XB650BT Wireless Bluetooth On Ear Headphone with Mic (Black)",
+            "product_img": "https://m.media-amazon.com/images/I/61y6Y7SzF0L._AC_UY327_FMwebp_QL65_.jpg",
+            "product_price": 7490,
+            "discount": 4
+        },
+        {
+            "product_id": "Powerdew1rmkxywgtkk",
+            "product_name": "pTron Dynamo Pro 10000mAh 18W QC3.0 PD Power Bank ",
+            "product_img": "https://m.media-amazon.com/images/I/51-iFKfM+WS._SL1100_.jpg",
+            "product_price": 699,
+            "discount": 7
+        },
+        {
+            "product_id": "Laptopdew1rmkxywhj64",
+            "product_name": "HP Victus AMD Ryzen 5 5600H 16.1 inches FHD Gaming Laptop (8GB RAM/512GB SSD/4GB Radeon RX5500M Graphics/Flicker Free Display/Windows 10 Home/MS Office/Mica Silver/2.48 Kg), 16-e0162AX, Black",
+            "product_img": "https://m.media-amazon.com/images/I/71h7F81EBoS._SL1500_.jpg",
+            "product_price": 59000,
+            "discount": 4
+        },
+        {
+            "product_id": "Tabletsdew1rmkxywn3b2",
+            "product_name": "Lenovo Tab M10 FHD Plus Tablet (26.16 cm (10.3-inch), 4GB, 128GB, Wi-Fi + LTE, Volte Calling), Platinum Grey",
+            "product_img": "https://m.media-amazon.com/images/I/51S2OfjRkIL._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 35000,
+            "discount": 14
+        },
+        {
+            "product_id": "Laptopdew1rmkxywo536",
+            "product_name": "Dell 15 (2021) AMD Ryzen 5-5600H Gaming Laptop, 16GB DDR4, 512GB SSD, Windows 10 + MS Office, NVIDIA RTX 3050 4Gb, 15.6 inches FHD, Backlit KB Orange, Platinum Silver (G15 5515, D560540WIN9W), 2.57kg",
+            "product_img": "https://m.media-amazon.com/images/I/61nJfQx0SlL._SL1080_.jpg",
+            "product_price": 88800,
+            "discount": 0
+        },
+        {
+            "product_id": "Cyclingdew1rmkxywxgk7",
+            "product_name": "Sportneer Men's Cycling Shorts 4D Coolmax Padded Bike Bicycle Pants Tights, Breathable & Absorbent",
+            "product_img": "https://m.media-amazon.com/images/I/61V1HIFSfnL._UL1500_.jpg",
+            "product_price": 1400,
+            "discount": 3
+        },
+        {
+            "product_id": "Cyclingdew1rmkxyx056s",
+            "product_name": "Triumph Men's Polyester Printed Bicycling Jersey Grey",
+            "product_img": "https://m.media-amazon.com/images/I/516j7i-Om-L._UL1100_.jpg",
+            "product_price": 2000,
+            "discount": 9
+        },
+        {
+            "product_id": "Cyclingdew1rmkxyx36g9",
+            "product_name": "VICTGOAL Bicycle Helmet with Detachable Visor Back Light & Insect Net Padded",
+            "product_img": "https://m.media-amazon.com/images/I/61JMleLSBAL._SL1000_.jpg",
+            "product_price": 2200,
+            "discount": 18
+        },
+        {
+            "product_id": "Cricketdew1rmkxyydha1",
+            "product_name": "GM Chroma Players Edition English Willow",
+            "product_img": "https://m.media-amazon.com/images/I/41OTwqyKTLS._SL1200_.jpg",
+            "product_price": 60893,
+            "discount": 8
+        },
+        {
+            "product_id": "console10a1mmkxz04rqd",
+            "product_name": "SONY PlayStation 5",
+            "product_img": "https://rukminim1.flixcart.com/image/416/416/kj7gwi80/gamingconsole/t/v/v/cfi-1008a01r-825-sony-no-original-imafytxe7twjskbx.jpeg?q=70",
+            "product_price": 49990,
+            "discount": 16
+        },
+        {
+            "product_id": "console10a1mmkxz07uqg",
+            "product_name": "Xbox Series X",
+            "product_img": "https://m.media-amazon.com/images/I/51q-aP4aNrL._SL1200_.jpg",
+            "product_price": 51000,
+            "discount": 18
+        },
+        {
+            "product_id": "Gym10a1mmkxz0bhan",
+            "product_name": "Stunner Fitness STX-365 3.0HP (6.0HP Peak) Multi-Functional Motorised Treadmill with Auto Inclination | Bluetooth | MP3 | Smart Phone App for Cardio Workout at Home (Free Installation Assistance)",
+            "product_img": "https://m.media-amazon.com/images/I/614HDiCnlIL._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 145000,
+            "discount": 2
+        },
+        {
+            "product_id": "SmartWatch4q11ygmkxlliwij",
+            "product_name": "Amazfit GTS2 Mini Smart Watch with 1.55 AMOLED Display, SpO2 Level Measurement, 14 Days' Battery Life, 70+ Sports Modes, Built-in Amazon Alexa & GPS, HR, Sleep&Stress Monitoring(Meteor Black)",
+            "product_img": "https://m.media-amazon.com/images/I/61nxpq3D4JS._SL1500_.jpg",
+            "product_price": 6500,
+            "discount": 5
+        },
+        {
+            "product_id": "Laptope587dbmkxuf42bg",
+            "product_name": "HP Pavilion Gaming 10th Gen Intel Core i5",
+            "product_img": "https://m.media-amazon.com/images/I/611VHOvjkES._SL1080_.jpg",
+            "product_price": 67000,
+            "discount": 9
+        },
+        {
+            "product_id": "Speakers1wc2mmkxuf9s7p",
+            "product_name": "boAt AAVANTE Bar 3150D",
+            "product_img": "https://m.media-amazon.com/images/I/51xQgfxi6WL._SL1500_.jpg",
+            "product_price": 13000,
+            "discount": 11
+        },
+        {
+            "product_id": "EarPhonesjd877mkxufcpa4",
+            "product_name": "boAt Rockerz 205 Pro",
+            "product_img": "https://m.media-amazon.com/images/I/51Sq9wkh6YL._SL1500_.jpg",
+            "product_price": 1000,
+            "discount": 17
+        },
+        {
+            "product_id": "HeadPhonesjd877mkxufelj6",
+            "product_name": "boAt Bassheads 900 Wired On Ear Headphones with Mic (Carbon Black)",
+            "product_img": "https://m.media-amazon.com/images/I/61xeIT6UHrL._SL1500_.jpg",
+            "product_price": 700,
+            "discount": 13
+        },
+        {
+            "product_id": "SmartWatch3h4mkxufyt1s",
+            "product_name": "Xiaomi Mi Smart Band 6",
+            "product_img": "https://m.media-amazon.com/images/I/41Nzx6heB5L._SL1200_.jpg",
+            "product_price": 3500,
+            "discount": 0
+        },
+        {
+            "product_id": "SmartWatch3h4mkxug0vqq",
+            "product_name": "Noise X-Fit 1 Smart Watch",
+            "product_img": "https://m.media-amazon.com/images/I/61NvfzX+qSL._SL1500_.jpg",
+            "product_price": 3000,
+            "discount": 5
+        },
+        {
+            "product_id": "Camerae0kamkxuh30ne",
+            "product_name": "Nikon D7500 20.9MP Digital SLR Camera",
+            "product_img": "https://m.media-amazon.com/images/I/613pf1JTs9L._SL1000_.jpg",
+            "product_price": 94960,
+            "discount": 16
+        },
+        {
+            "product_id": "Phone1838qqmkxww6p5i",
+            "product_name": "Redmi 9 Prime",
+            "product_img": "https://demo.w3layouts.com/demos_new/template_demo/11-06-2021/electronics-mart-liberty-demo_Free/1081434887/web/images/m1.png",
+            "product_price": 17500,
+            "discount": 5
+        },
+        {
+            "product_id": "Laptop1838qqmkxwwg2og",
+            "product_name": "HP 14 Core i5",
+            "product_img": "https://demo.w3layouts.com/demos_new/template_demo/11-06-2021/electronics-mart-liberty-demo_Free/1081434887/web/images/mk4.png",
+            "product_price": 55000,
+            "discount": 19
+        },
+        {
+            "product_id": "Laptop1838qqmkxwwsho4",
+            "product_name": "Dell Insp. 3501",
+            "product_img": "https://demo.w3layouts.com/demos_new/template_demo/11-06-2021/electronics-mart-liberty-demo_Free/1081434887/web/images/mk5.png",
+            "product_price": 65000,
+            "discount": 10
+        },
+        {
+            "product_id": "Laptop1838qqmkxwwunl3",
+            "product_name": "Lenovo Ideapad3i",
+            "product_img": "https://demo.w3layouts.com/demos_new/template_demo/11-06-2021/electronics-mart-liberty-demo_Free/1081434887/web/images/mk6.png",
+            "product_price": 40000,
+            "discount": 7
+        },
+        {
+            "product_id": "Phone1838qqmkxwx2tn9",
+            "product_name": "FOOLPROOF Cover",
+            "product_img": "https://demo.w3layouts.com/demos_new/template_demo/11-06-2021/electronics-mart-liberty-demo_Free/1081434887/web/images/mk11.png",
+            "product_price": 200,
+            "discount": 11
+        },
+        {
+            "product_id": "Power1838qqmkxwx6cbd",
+            "product_name": "Mi 3i 20000 Power",
+            "product_img": "https://demo.w3layouts.com/demos_new/template_demo/11-06-2021/electronics-mart-liberty-demo_Free/1081434887/web/images/mk12.png",
+            "product_price": 1700,
+            "discount": 4
+        },
+        {
+            "product_id": "Sports1838qqmkxwxx81m",
+            "product_name": "ASIAN Men's Cosko Running,Walking,Gym,Training Shoes",
+            "product_img": "https://m.media-amazon.com/images/I/61pYhDY8fxL._UL1100_.jpg",
+            "product_price": 600,
+            "discount": 8
+        },
+        {
+            "product_id": "Sports1838qqmkxwxzdlz",
+            "product_name": "Campus Men's Running Shoes",
+            "product_img": "https://m.media-amazon.com/images/I/81CMD63b2IL._UL1500_.jpg",
+            "product_price": 1100,
+            "discount": 18
+        },
+        {
+            "product_id": "Sports1838qqmkxwy1c0k",
+            "product_name": "Sparx Women's Sx0146l Walking Shoes",
+            "product_img": "https://m.media-amazon.com/images/I/81sVD78mOuL._UL1500_.jpg",
+            "product_price": 1100,
+            "discount": 19
+        },
+        {
+            "product_id": "Sports1838qqmkxwy3oqn",
+            "product_name": "ASIAN Women's Running & Walking Shoe",
+            "product_img": "https://m.media-amazon.com/images/I/61iKZtIs73L._UL1100_.jpg",
+            "product_price": 700,
+            "discount": 9
+        },
+        {
+            "product_id": "Sports1838qqmkxwy7tmn",
+            "product_name": "Li-Ning G-Force Superlite 3700 Carbon-Fiber Badminton Racquet",
+            "product_img": "https://m.media-amazon.com/images/I/81kKE-6BokL._SL1500_.jpg",
+            "product_price": 2000,
+            "discount": 10
+        },
+        {
+            "product_id": "Television1ix1xemkxxq0ggy",
+            "product_name": "X85J| 4K Ultra HD | High Dynamic Range (HDR) | Smart TV (Google TV)",
+            "product_img": "https://www.sony.co.in/image/5f24b03f4ecc08a11be60c6833342740?fmt=pjpeg&wid=165&bgcolor=FFFFFF&bgc=FFFFFF",
+            "product_price": 140000,
+            "discount": 13
+        },
+        {
+            "product_id": "Television2194emkxyerfel",
+            "product_name": "Samsung 125 cm (50 inches) 4K Ultra HD Smart QLED TV QA50Q60AAKLXL (Black))",
+            "product_img": "https://m.media-amazon.com/images/I/61LPHR0nUJL._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 99900,
+            "discount": 18
+        },
+        {
+            "product_id": "Badmintondew1rmkxywww81",
+            "product_name": "YONEX Graphite Badminton Racquet, Muscle Power 22LT Black Blue",
+            "product_img": "https://images-eu.ssl-images-amazon.com/images/I/416Uc5sMRZL._AC_SX368_.jpg",
+            "product_price": 3190,
+            "discount": 5
+        },
+        {
+            "product_id": "Gym10a1mmkxz0p0fv",
+            "product_name": "JBM Adjustable Ankle Weights Wrist Leg Weights Sand Filling 2.2lb 4.4lb 6.6lb 8.8lb 11lb 13.2lb 17.6lb 22lb (A Pair) Double Velcro Straps for Walking Jogging Gym Fitness Exercise Gymnastics Aerobics",
+            "product_img": "https://m.media-amazon.com/images/I/61QqaPBVFdL._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 29452,
+            "discount": 6
+        },
+        {
+            "product_id": "Headphones4q11ygmkxll5jlc",
+            "product_name": "Tribit XFree Go Over Ear Bluetooth Wireless Headphones,Bluetooth 5.0 On Ear Headphone with CVC 8.0 Noise Cancelling Mic,HiFi Sound,Deep Bass,USB Lightening Fast Charge,24H Playtime,Voice Control,Black",
+            "product_img": "https://m.media-amazon.com/images/I/71DbAq4nG1L._SL1460_.jpg",
+            "product_price": 2460,
+            "discount": 1
+        },
+        {
+            "product_id": "Phone1838qqmkxwwzexo",
+            "product_name": "Saviyo Back Cover",
+            "product_img": "https://demo.w3layouts.com/demos_new/template_demo/11-06-2021/electronics-mart-liberty-demo_Free/1081434887/web/images/mk10.png",
+            "product_price": 160,
+            "discount": 6
+        },
+        {
+            "product_id": "Cricketdew1rmkxyyqqad",
+            "product_name": "ASICS Men's 350 Not Out Ff Leather Cricket Shoes",
+            "product_img": "https://m.media-amazon.com/images/I/510grKGjFmL._UL1024_.jpg",
+            "product_price": 37732,
+            "discount": 1
+        },
+        {
+            "product_id": "Television2194emkxye2q43",
+            "product_name": "Samsung 138 cm (55 inches) The Frame Series 4K Ultra HD Smart QLED TV QA55LS03AAKLXL (Black)",
+            "product_img": "https://m.media-amazon.com/images/I/71YDVrHosvS._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 144900,
+            "discount": 10
+        },
+        {
+            "product_id": "phone1pyxvmkxp07f49",
+            "product_name": "Realme GT Neo 2",
+            "product_img": "https://rukminim1.flixcart.com/image/312/312/kumzpu80/mobile/h/x/v/gt-neo2-5g-rmx3370-realme-original-imag7puemtw7atdk.jpeg?q=70",
+            "product_price": 25000,
+            "discount": 8
+        },
+        {
+            "product_id": "Television2194emkxyee5vo",
+            "product_name": "Redmi 164 cm (65 inches) 4K Ultra HD Android Smart LED TV X65|L65M6-RA (Black) ",
+            "product_img": "https://m.media-amazon.com/images/I/81+olvrT65L._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 70999,
+            "discount": 9
+        },
+        {
+            "product_id": "Television2194emkxyegm8u",
+            "product_name": "TCL 139 cm (55 inches) 4K Ultra HD Certified Android Smart LED TV 55P615 (Black) ",
+            "product_img": "https://m.media-amazon.com/images/I/71nsCYdploL._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 75990,
+            "discount": 5
+        },
+        {
+            "product_id": "Headphone2194emkxygo2w3",
+            "product_name": "Bose Noise Cancelling Wireless Bluetooth Headphones 700, with Alexa Voice Control, Black",
+            "product_img": "https://m.media-amazon.com/images/I/51ntWa1Q0sL._AC_UY327_FMwebp_QL65_.jpg",
+            "product_price": 34500,
+            "discount": 4
+        },
+        {
+            "product_id": "Headphone2194emkxyh20a7",
+            "product_name": "Bose Noise Cancelling Wireless Bluetooth Headphones 700, with Alexa Voice Control, Silver Luxe",
+            "product_img": "https://m.media-amazon.com/images/I/61+bXoMHXQL._AC_UY327_FMwebp_QL65_.jpg",
+            "product_price": 34500,
+            "discount": 6
+        },
+        {
+            "product_id": "Television2194emkxye8ky2",
+            "product_name": "LG 139.7 cm (55 inches) 4K Ultra HD Smart LED TV 55UP7500PTZ (Rocky Black)",
+            "product_img": "https://m.media-amazon.com/images/I/81I1sw-FBgL._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 79990,
+            "discount": 2
+        },
+        {
+            "product_id": "Phone4q11ygmkxlkm2pa",
+            "product_name": "Apple iPhone XR (64GB) - Black",
+            "product_img": "https://m.media-amazon.com/images/I/519KIlHA2wL._SL1024_.jpg",
+            "product_price": 36999,
+            "discount": 9
+        },
+        {
+            "product_id": "Headphones4q11ygmkxll8hg0",
+            "product_name": "boAt Rockerz 550 Bluetooth Wireless Over Ear Headphone with Mic (Black)",
+            "product_img": "https://m.media-amazon.com/images/I/61gYxcIGjvL._SL1500_.jpg",
+            "product_price": 2000,
+            "discount": 17
+        },
+        {
+            "product_id": "Earphones4q11ygmkxllapii",
+            "product_name": "OnePlus BWZ Bass Edition Bluetooth Wireless in Ear Earphones with Mic (Reverb Red)",
+            "product_img": "https://m.media-amazon.com/images/I/61DKcGr12OL._SL1500_.jpg",
+            "product_price": 2000,
+            "discount": 15
+        },
+        {
+            "product_id": "SmartWatch13j84ymkxufvz51",
+            "product_name": "Samsung Galaxy Watch4 Bluetooth",
+            "product_img": "https://m.media-amazon.com/images/I/61Nhi7ovjkL._SL1500_.jpg",
+            "product_price": 24740,
+            "discount": 9
+        },
+        {
+            "product_id": "Camera2sm6dmkxugv4e2",
+            "product_name": "QUBO Smart Cam 360",
+            "product_img": "https://m.media-amazon.com/images/I/41lQeEqdDBL._SL1000_.jpg",
+            "product_price": 2890,
+            "discount": 6
+        },
+        {
+            "product_id": "Camerae0kamkxugzfx1",
+            "product_name": "Canon EOS 1500D 24.1 Digital SLR Camera (Black) with EF S18-55 is II Lens",
+            "product_img": "https://m.media-amazon.com/images/I/914hFeTU2-L._SL1500_.jpg",
+            "product_price": 36600,
+            "discount": 14
+        },
+        {
+            "product_id": "Tablete0kamkxuh5g6u",
+            "product_name": "Apple iPad Air",
+            "product_img": "https://m.media-amazon.com/images/I/71kFzFbiINL._SL1500_.jpg",
+            "product_price": 60000,
+            "discount": 6
+        },
+        {
+            "product_id": "Tablete0kamkxuh9nv7",
+            "product_name": "Samsung Galaxy Tab S7",
+            "product_img": "https://m.media-amazon.com/images/I/71BDPPIdGeL._SL1280_.jpg",
+            "product_price": 40000,
+            "discount": 5
+        },
+        {
+            "product_id": "ACe0kamkxuhdtx6",
+            "product_name": "Voltas 1.4 Ton 5 Star Inverter Adjustable Split AC",
+            "product_img": "https://m.media-amazon.com/images/I/41PXFQ1dzaS._SL1500_.jpg",
+            "product_price": 37600,
+            "discount": 16
+        },
+        {
+            "product_id": "AC233ms4mkxuic45o",
+            "product_name": "LG 1.5 Ton 5 Star Inverter Split AC",
+            "product_img": "https://m.media-amazon.com/images/I/51lyOjfKhML._SL1500_.jpg",
+            "product_price": 38480,
+            "discount": 5
+        },
+        {
+            "product_id": "AC233ms4mkxuie0rb",
+            "product_name": "Samsung 192 L 2 Star Direct Cool Single Door Refrigerator",
+            "product_img": "https://m.media-amazon.com/images/I/81FyYXoQF-L._SL1500_.jpg",
+            "product_price": 13200,
+            "discount": 17
+        },
+        {
+            "product_id": "AC233ms4mkxuihhws",
+            "product_name": "LG 190L 5 Star Direct-Cool Smart Inverter Single Door Refrigerator",
+            "product_img": "https://m.media-amazon.com/images/I/71nyhIsb4tL._SL1500_.jpg",
+            "product_price": 17500,
+            "discount": 16
+        },
+        {
+            "product_id": "Phone1838qqmkxww9t1o",
+            "product_name": "Galaxy F62",
+            "product_img": "https://demo.w3layouts.com/demos_new/template_demo/11-06-2021/electronics-mart-liberty-demo_Free/1081434887/web/images/mk2.png",
+            "product_price": 26000,
+            "discount": 8
+        },
+        {
+            "product_id": "Phone1838qqmkxwwca1y",
+            "product_name": "Apple iPhone 11",
+            "product_img": "https://demo.w3layouts.com/demos_new/template_demo/11-06-2021/electronics-mart-liberty-demo_Free/1081434887/web/images/m3.png",
+            "product_price": 50000,
+            "discount": 4
+        },
+        {
+            "product_id": "Tablet1838qqmkxwx96tt",
+            "product_name": "Panasonic Tab 8",
+            "product_img": "https://demo.w3layouts.com/demos_new/template_demo/11-06-2021/electronics-mart-liberty-demo_Free/1081434887/web/images/mk8.png",
+            "product_price": 11000,
+            "discount": 5
+        },
+        {
+            "product_id": "Tablet1838qqmkxwxbr86",
+            "product_name": "Lenovo Yoga Tab",
+            "product_img": "https://demo.w3layouts.com/demos_new/template_demo/11-06-2021/electronics-mart-liberty-demo_Free/1081434887/web/images/mk7.png",
+            "product_price": 28000,
+            "discount": 0
+        },
+        {
+            "product_id": "Tablet1838qqmkxwxetyw",
+            "product_name": "Galaxy Tab",
+            "product_img": "https://demo.w3layouts.com/demos_new/template_demo/11-06-2021/electronics-mart-liberty-demo_Free/1081434887/web/images/mk9.png",
+            "product_price": 40000,
+            "discount": 8
+        },
+        {
+            "product_id": "Sports1838qqmkxwyof8r",
+            "product_name": "Redmi 80 cm (32 inches) HD Ready Smart LED TV",
+            "product_img": "https://m.media-amazon.com/images/I/71f-TfffHfL._SL1500_.jpg",
+            "product_price": 16000,
+            "discount": 3
+        },
+        {
+            "product_id": "Power1ix1xemkxxqwqzy",
+            "product_name": "Coolnut 60000mAh Power Bank",
+            "product_img": "https://coolnut.in/wp-content/uploads/2021/06/imgpsh_fullsize_anim-3.jpg",
+            "product_price": 19000,
+            "discount": 6
+        },
+        {
+            "product_id": "Badminton1ix1xemkxxr1hgc",
+            "product_name": "Yonex Mavis 500 Super Nylon Shuttlecock",
+            "product_img": "https://cdn.shopify.com/s/files/1/0099/8224/6993/products/0_720x.jpg?v=1622456853",
+            "product_price": 7900,
+            "discount": 9
+        },
+        {
+            "product_id": "Television2194emkxyek4dd",
+            "product_name": "Samsung The Serif Series 138 cm (55 inches) 4K Ultra HD Smart QLED TV QA55LS01TAKXXL (Cloud White) ",
+            "product_img": "https://m.media-amazon.com/images/I/81TykyxGSJL._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 163900,
+            "discount": 16
+        },
+        {
+            "product_id": "Television2194emkxyennun",
+            "product_name": "Samsung 139 cm (55 inches) 4K Ultra HD Smart QLED TV QA55Q60TAKXXL (Black)",
+            "product_img": "https://m.media-amazon.com/images/I/81Qxjm42bOL._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 134900,
+            "discount": 5
+        },
+        {
+            "product_id": "Headphone2194emkxyf1m26",
+            "product_name": "Beats Solo PRO Bluetooth Wireless On Ear Headphones with Mic (Ivory)",
+            "product_img": "https://m.media-amazon.com/images/I/61y6Y7SzF0L._AC_UY327_FMwebp_QL65_.jpg",
+            "product_price": 25900,
+            "discount": 1
+        },
+        {
+            "product_id": "Headphone2194emkxyfyt3w",
+            "product_name": "Sony WH-1000XM4 Wireless Bluetooth Over The Ear Headphone with Mic (Blue)",
+            "product_img": "https://m.media-amazon.com/images/I/61YHhQzV+KL._AC_UY327_FMwebp_QL65_.jpg",
+            "product_price": 29990,
+            "discount": 10
+        },
+        {
+            "product_id": "Headphone2194emkxyggl12",
+            "product_name": "Sony WH-1000XM4 Bluetooth Wireless Over Ear Headphones with Mic (Silver)",
+            "product_img": "https://m.media-amazon.com/images/I/71a5XAAbzbL._AC_UY327_FMwebp_QL65_.jpg",
+            "product_price": 29990,
+            "discount": 14
+        },
+        {
+            "product_id": "Headphone2194emkxygic7o",
+            "product_name": "Sony WH-1000XM4 Bluetooth Wireless Over Ear Headphones with Mic (Silver)",
+            "product_img": "https://m.media-amazon.com/images/I/71a5XAAbzbL._AC_UY327_FMwebp_QL65_.jpg",
+            "product_price": 29990,
+            "discount": 1
+        },
+        {
+            "product_id": "Headphone2194emkxyg2f0w",
+            "product_name": "Beats Studio3 Wireless Noise Cancelling On-Ear Headphones - Apple W1 Headphone Chip, Class 1 Bluetooth, Active Noise Cancelling, 22 Hours of Listening Time, Built-in Microphone - Blue",
+            "product_img": "https://m.media-amazon.com/images/I/61BehGyHzHL._AC_UY327_FMwebp_QL65_.jpg",
+            "product_price": 25900,
+            "discount": 12
+        },
+        {
+            "product_id": "Headphone2194emkxyg7go0",
+            "product_name": "beyerdynamic DT 770 PRO 250 Ohm Studio Headphone",
+            "product_img": "https://m.media-amazon.com/images/I/81ltOc0fTbL._AC_UY327_FMwebp_QL65_.jpg",
+            "product_price": 16489,
+            "discount": 5
+        },
+        {
+            "product_id": "Phone4q11ygmkxlkqzo2",
+            "product_name": "Apple iPhone 12 (128GB) - Black",
+            "product_img": "https://m.media-amazon.com/images/I/71fVoqRC0wL._SL1500_.jpg",
+            "product_price": 70200,
+            "discount": 17
+        },
+        {
+            "product_id": "Television2194emkxydwmhx",
+            "product_name": "Sony Bravia 139 cm (55 inches) 4K Ultra HD Smart LED Google TV KD-55X80AJ (Black)",
+            "product_img": "https://m.media-amazon.com/images/I/91Pij5DqU1L._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 109900,
+            "discount": 3
+        },
+        {
+            "product_id": "Television2194emkxye150o",
+            "product_name": "Sony Bravia 164 cm (65 inches) 4K Ultra HD Smart LED Google TV KD-65X80AJ (Black)",
+            "product_img": "https://m.media-amazon.com/images/I/81rFvuvqaNL._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 179900,
+            "discount": 1
+        },
+        {
+            "product_id": "Badmintondew1rmkxywznn8",
+            "product_name": "FitGa - Agility Trainer",
+            "product_img": "https://m.media-amazon.com/images/I/71DHdZbeN2L._AC_UL480_FMwebp_QL65_.jpg",
+            "product_price": 42000,
+            "discount": 3
+        },
+        {
+            "product_id": "Laptop4q11ygmkxlkwyjh",
+            "product_name": "ASUS TUF Gaming F15 (2021) 15.6-inch (39.62 cms) FHD 144Hz, Intel Core i7-11800H 11th Gen, RTX 3060 6GB Graphics, Gaming Laptop (16GB/1TB SSD/Windows 10/Gray/2.3 Kg), FX566HM-HN100T",
+            "product_img": "https://m.media-amazon.com/images/I/91aWfctUptL._SL1500_.jpg",
+            "product_price": 115000,
+            "discount": 3
+        },
+        {
+            "product_id": "Laptop4q11ygmkxll0g3e",
+            "product_name": "ASUS ROG Strix Scar 15 (2021) 15.6-inch (39.62 cms) FHD 300Hz/3ms, AMD Ryzen 9 5900HX, RTX 3080 16GB Graphics, Gaming Laptop (32GB/1TB SSD/Office 2019/Windows 10/Black/2.3 Kg), G533QS-HF240TS",
+            "product_img": "https://m.media-amazon.com/images/I/81Xa7ORzWLL._SL1500_.jpg",
+            "product_price": 264000,
+            "discount": 6
+        },
+        {
+            "product_id": "Sports1838qqmkxwyawkz",
+            "product_name": "Nivia Storm Football",
+            "product_img": "https://m.media-amazon.com/images/I/81g87b5bzLL._SL1500_.jpg",
+            "product_price": 500,
+            "discount": 15
+        },
+        {
+            "product_id": "Sports1838qqmkxwyd53n",
+            "product_name": "Cosco Super Volley Ball",
+            "product_img": "https://m.media-amazon.com/images/I/91DVA4yRc+L._SL1500_.jpg",
+            "product_price": 1000,
+            "discount": 19
+        },
+        {
+            "product_id": "Camera11qfofmkxxlwlsu",
+            "product_name": "Alpha 1 with superb resolution and speed",
+            "product_img": "https://www.sony.co.in/image/14df0d210e44e2526441eeb1024ad89a?fmt=pjpeg&wid=165&bgcolor=FFFFFF&bgc=FFFFFF",
+            "product_price": 560000,
+            "discount": 11
+        },
+        {
+            "product_id": "Phone1ix1xemkxxolix6",
+            "product_name": "Samsung Galaxy Z Fold3 5G",
+            "product_img": "https://images.samsung.com/in/smartphones/galaxy-z-fold3-5g/images/galaxy-z-fold3-5g_highlights_kv_img.jpg",
+            "product_price": 150000,
+            "discount": 3
+        },
+        {
+            "product_id": "Phone1ix1xemkxxoq4lv",
+            "product_name": "Galaxy S21 5G | S21+ 5G",
+            "product_img": "https://images.samsung.com/in/smartphones/galaxy-s21-5g/images/galaxy-s21-5g_highlights_display_start.jpg",
+            "product_price": 81000,
+            "discount": 11
+        },
+        {
+            "product_id": "Phone1ix1xemkxxozuh1",
+            "product_name": "Galaxy Z Flip3 5G",
+            "product_img": "https://images.samsung.com/in/smartphones/galaxy-z-flip3-5g/images/galaxy-z-flip3-5g_highlights_colors_black.png",
+            "product_price": 90000,
+            "discount": 7
+        },
+        {
+            "product_id": "Phone1ix1xemkxxpbosk",
+            "product_name": "Realme GT 5G",
+            "product_img": "https://www.reliancedigital.in/medias/realme-GT-5G-Smartphones-491997526-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNjg3MDV8aW1hZ2UvanBlZ3xpbWFnZXMvaGNjL2g2MC85NjE1NzY0OTQ2OTc0LmpwZ3wzODYwYjk2YjdjZmYzN2E1NGJlYjg1ZDlkZWMyYjFhMTdmMjA0OTAwOWFkN2JkNDk3Y2UwMjcxMGMwODU0MDE4",
+            "product_price": 38000,
+            "discount": 4
+        },
+        {
+            "product_id": "Phone1ix1xemkxxphhar",
+            "product_name": "Realme X7 Pro 5G",
+            "product_img": "https://rukminim1.flixcart.com/image/416/416/kklhbbk0/mobile/j/w/l/x7-pro-rmx2121-realme-original-imafzwfyvjz6ytvu.jpeg?q=70",
+            "product_price": 30000,
+            "discount": 6
+        },
+        {
+            "product_id": "Phone1ix1xemkxxpragc",
+            "product_name": "OnePlus 9 Pro 5G",
+            "product_img": "https://image01.oneplus.net/ebp/202111/02/1-M00-2F-6C-rB8LB2GBOuOAT2ztAAJGipYpYD8553.png",
+            "product_price": 37000,
+            "discount": 7
+        },
+        {
+            "product_id": "Television1ix1xemkxxpxb7c",
+            "product_name": "Sony Bravia LED Smart TV, X80J KD-85X85J",
+            "product_img": "https://www.reliancedigital.in/medias/Sony-KD-85X85J-Televisions-492403679-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2NDk0NjN8aW1hZ2UvanBlZ3xpbWFnZXMvaGU3L2g0YS85NjE5MTg1MjcwODE0LmpwZ3w4MWQxNWJhYTE2ODRlNGI2ZThkZDI4MzY0Y2MwMjAwZWY0NjVkNWQ3NWYxNGQ5MTFjZDU2NDdkNTNjZDM4ODEz",
+            "product_price": 429000,
+            "discount": 1
+        },
+        {
+            "product_id": "Cycle1ix1xemkxxqelg8",
+            "product_name": "Bianchi Methanol CV RS 9.2 XTR 12SP",
+            "product_img": "https://s3.ap-south-1.amazonaws.com/choosemybicycle/bianchi/bicycles/bianchi-methanol-cv-rs-9-2-xtr-12sp-2021.jpg",
+            "product_price": 807500,
+            "discount": 2
+        },
+        {
+            "product_id": "Cycle1ix1xemkxxqf7cb",
+            "product_name": "GIANT XTC ADVANCED SL 29 0",
+            "product_img": "https://cdn.shopify.com/s/files/1/0716/7793/products/MY21XTC_ADSL_29_0_ColorACarbon_MetallicBlack_1800x1800.jpg?v=1611408276",
+            "product_price": 600000,
+            "discount": 3
+        },
+        {
+            "product_id": "Home1ix1xemkxxqpbkg",
+            "product_name": "Soundbar 616W 11.1.4Ch Q950A",
+            "product_img": "https://images.samsung.com/is/image/samsung/p6pim/in/hw-q950a-xl/gallery/in-hw-q950a-hw-q950a-xl-431732338?$684_547_PNG$",
+            "product_price": 113000,
+            "discount": 14
+        },
+        {
+            "product_id": "Game2194emkxync4i3",
+            "product_name": "GTA V",
+            "product_img": "https://images.ctfassets.net/wn7ipiv9ue5v/4xtHbRSQjSnBeXFH8DKMXx/326c7e85add1ca0d1459bc29dcab25cd/GTAV_Logo.svg?w=256&h=&fm=webp&q=",
+            "product_price": 3000,
+            "discount": 5
+        },
+        {
+            "product_id": "Game2194emkxynhr8j",
+            "product_name": "NFS Heat",
+            "product_img": "https://cdn.akamai.steamstatic.com/steam/apps/1222680/header.jpg?t=1620488613",
+            "product_price": 3500,
+            "discount": 10
+        },
+        {
+            "product_id": "Game2194emkxynlll7",
+            "product_name": "NFS PayBack",
+            "product_img": "https://cdn.akamai.steamstatic.com/steam/apps/1262580/header.jpg?t=1615894576",
+            "product_price": 2000,
+            "discount": 14
+        },
+        {
+            "product_id": "Game2194emkxynsj5f",
+            "product_name": "Forza Horizon 5",
+            "product_img": "https://compass-ssl.xboxlive.com/assets/67/b0/67b06676-24a7-406a-be29-78e86261544d.jpg?n=FH5_KeyArt_Horiz_RGB_1920x825.jpg",
+            "product_price": 4000,
+            "discount": 7
+        },
+        {
+            "product_id": "Game2194emkxyo5sqt",
+            "product_name": "Far Cry 6",
+            "product_img": "https://sportprat.com/wp-content/uploads/2021/10/Ubisoft-kan-ha-nagot-spannande-for-fansen-med-Far-Cry-1200x1573.jpg",
+            "product_price": 6000,
+            "discount": 0
+        },
+        {
+            "product_id": "Game2194emkxyobkze",
+            "product_name": "Tomb Raider",
+            "product_img": "https://tombraider.square-enix-games.com/images/packshots/definitive/pc/esrb.jpg",
+            "product_price": 1500,
+            "discount": 15
+        },
+        {
+            "product_id": "Game2194emkxyojoa8",
+            "product_name": "Assassin's Creed",
+            "product_img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Assassin's_Creed.jpg/1280px-Assassin's_Creed.jpg",
+            "product_price": 4000,
+            "discount": 3
+        },
+        {
+            "product_id": "Game2194emkxyp1om2",
+            "product_name": "Call of Duty: Vanguard",
+            "product_img": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/blog/hero/vgd/VGD_SEE_THEM_RISE.jpg",
+            "product_price": 6000,
+            "discount": 0
+        },
+        {
+            "product_id": "Game2194emkxyp9hb4",
+            "product_name": "BattleField 2042",
+            "product_img": "https://wholesgame.com/wp-content/uploads/Battlefield-2042-Reveal-Thumb-4-x-5.jpg",
+            "product_price": 3000,
+            "discount": 16
+        },
+        {
+            "product_id": "Game2194emkxypfasi",
+            "product_name": "Devil May Cry 5",
+            "product_img": "https://www.gamexchange.co.uk/images/pictures/products/ps4/devil-may-cry-5-day-one-edition.jpg?v=ed700b4e",
+            "product_price": 3500,
+            "discount": 14
+        }
+    ]
+}
